@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Aulas\alunos\Java\Marcus Brabo\samples\.metadata\.plugins\org.eclipse.jdt.core
+334796116.index
+1865797976.index
+3558800978.index

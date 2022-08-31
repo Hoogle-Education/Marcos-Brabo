@@ -1,0 +1,14 @@
+package entities;
+
+public class Aluno {
+
+	String nome;
+	int idade;
+	double altura;
+	double media;
+
+	void fazerAniversario() {
+		idade++;
+	}
+
+}
