@@ -22,7 +22,7 @@ public class App {
 		
 		System.out.println("--------------");
 		
-		System.out.println("Joao, quanto é 3 + 7 ? " + joao.somar(3, 7));
+		System.out.println("Joao, quanto ï¿½ 3 + 7 ? " + joao.somar(3, 7));
 		
 	}
 

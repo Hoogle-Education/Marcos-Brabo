@@ -10,7 +10,7 @@ public class Aluno {
 	
 	// metodos
 	public void fazerAniversario() {
-		idade++;
+		this.idade++;
 	}
 	
 	public int somar(int a, int b) {
